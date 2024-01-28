@@ -28,5 +28,4 @@ To get started with the Drowsiness Detection Model, follow these steps:
    Open the drowsinessdetection.ipynb notebook to reporduce and train the model.
 4. **Run the Streamlit Application**
    ```bash
-   cd streamlit
    streamlit run app.py   
