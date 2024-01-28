@@ -1,0 +1,6 @@
+ultralytics
+Pillow
+numpy
+streamlit
+pyyaml
+ipython
