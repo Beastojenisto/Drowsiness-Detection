@@ -20,7 +20,7 @@ To get started with the Drowsiness Detection Model, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/Drowsiness-Detection.git
+   git clone https://github.com/Beastojenisto/Drowsiness-Detection.git
 2. **Navigate to the Repository:**
    ```bash
    cd Drowsiness-Detection
